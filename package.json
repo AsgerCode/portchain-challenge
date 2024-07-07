@@ -1,0 +1,30 @@
+{
+  "name": "portchain-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/src/app.js",
+  "scripts": {
+    "start": "tsc && node dist/src/app.js",
+    "lint": "eslint 'src/**'",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "@types/eslint__js": "^8.42.3",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.9",
+    "axios": "^1.7.2",
+    "axios-mock-adapter": "^1.22.0",
+    "cli-select": "^1.1.2",
+    "eslint": "^8.57.0",
+    "globals": "^15.7.0",
+    "moment": "^2.30.1",
+    "percentile": "^1.6.0",
+    "ts-jest": "^29.1.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^7.15.0"
+  }
+}
