@@ -11,7 +11,7 @@ For the solution, I decided to make a simple node.js program that runs on the te
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AsgerCode/portchain-challenge.git
 ```
 
 Go to the project directory
@@ -48,4 +48,4 @@ Linting is also available by running the following command
 ```
 ## Architectural Diagram
 
-To see the architectural diagram, see the following link: [Architectural Diagram](https://imgur.com/a/XIFS8H8)
+To see the architectural diagram, see the following link: [Architectural Diagram](https://i.imgur.com/zoXQjss.jpeg)
